@@ -1,2 +1,2 @@
 # bank-app
-## the app has neat user interface and some careful functionality 
+## the app has neat user interface and some transaction functionality
